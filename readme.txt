@@ -47,10 +47,4 @@ $ git status
 no changes added to commit (use "git add" and/or "git commit -a")
 Git非常清楚地告诉我们，readme.txt被修改了，而LICENSE还从来没有被添加过，所以它的状态是Untracked。
 
-现在，使用两次命令git add，把readme.txt和LICENSE都添加后，用git status再查看一下：
-
-$ git status
-# On branch master
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
+而是上课
